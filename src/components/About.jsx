@@ -31,7 +31,7 @@ const About = () => {
       <div className="flex items-start gap-8 mt-8">
         {/* Decorative Line (Fixed on Left) */}
         <div className="flex flex-col justify-center items-center mt-5">
-          <div className="w-5 h-5 rounded-full bg-[#5ab7db]" />
+          <div className="w-5 h-5 rounded-full bg-[#54bee7]" />
           <div className="w-1 sm:h-72 h-40 violet-gradient" />
         </div>
 
@@ -39,7 +39,7 @@ const About = () => {
         <div className="flex-1">
           {/* Heading */}
           <h1 className="mt-6 font-black text-white text-[50px] ">
-            Hi, I'm <span className="text-[#54c9dd]">Vikash Kumar</span>
+            Hi, I'm <span className="text-[#53daf1]">Vikash Kumar</span>
           </h1>
 
           {/* Section Title */}
